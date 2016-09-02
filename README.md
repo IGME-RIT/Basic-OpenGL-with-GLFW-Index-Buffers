@@ -23,3 +23,5 @@ Linux:
 cd path/to/folder
 ./setup
 ```
+
+Alternatively, if running on Windows, you should be able to run setup.cmd directly from the file explorer.
