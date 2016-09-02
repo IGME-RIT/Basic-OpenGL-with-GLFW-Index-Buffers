@@ -1,0 +1,14 @@
+series: Basic OpenGL with GLFW
+title: Index Buffers
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: A demonstration of using an index buffer to render a square with only 4 vertices.
+language: C++
+tags:
+  - Graphics
+extra_resources:
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Drawing a Triangle
