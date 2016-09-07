@@ -162,14 +162,8 @@ int main(int argc, char **argv)
 
 
 
-	// Set Render mode.
-	glPolygonMode(GL_FRONT, GL_FILL);
-
-
-
 
 	// Main Loop
-
 
 	while (!glfwWindowShouldClose(window))
 	{
